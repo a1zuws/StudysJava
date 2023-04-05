@@ -1,2 +1,3 @@
 =>In Java, class names usually start with a capital letter and are called CamelCase.
 =>
+=>
